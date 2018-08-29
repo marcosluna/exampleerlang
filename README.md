@@ -1,5 +1,6 @@
-# Example Erlang
-Very simple REST endpoint that provides JSON content
+# Erlang Example
+
+A very simple REST endpoint that provides JSON content
 
 
 in order to compile and run the app you need
